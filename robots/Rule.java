@@ -2,15 +2,14 @@ package robots;
 
 
 /**
- * Regole robots.txt
- * se un particolare path è permesso
+ * rule robots.txt
  * */
 public interface Rule {
 	
 	/**
-	 * @return True se è ALLOWED
-	 * @return false se è DISALLOWED
-	 * null se la regola non è applicabile
+	 * @return True if ALLOWED
+	 * @return false if DISALLOWED
+	 * null if there are no rules
 	 * */
 
 	Boolean isAllowed(String path);
