@@ -26,3 +26,8 @@ Usare il metodo isUrlAllowed, prende come parametro una Url in formato stringa o
     
 ```
 
+## Uml
+
+  <img src="/uml/diagram.jpg" width="500"/>  
+
+
