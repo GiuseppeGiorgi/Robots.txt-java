@@ -2,8 +2,10 @@ package robots;
 
 
 /**
- * rule robots.txt
- * */
+* @author Giuseppe Giorgi <giuseppe.giorgi1987@gmail.com>
+*/
+
+ // rule robots.txt
 public interface Rule {
 	
 	/**
