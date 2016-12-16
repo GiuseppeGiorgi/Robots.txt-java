@@ -6,9 +6,10 @@ import java.util.List;
 
 
 /**
- * Contiene una serie di regole per decidere 
- * se è allowed oppure no
- * */
+* @author Giuseppe Giorgi <giuseppe.giorgi1987@gmail.com>
+*/
+
+ // Contiene una serie di regole per decidere  se è allowed oppure no 
 public class RulesEngine {
 
 	private List rules;
